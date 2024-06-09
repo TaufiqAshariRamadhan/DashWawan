@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Marketplace",
+    "status": "Approved",
+    "prodi": "24.Jan.2021",
+    "ipk": 30,
+    "nim": "Marketplace",
+    "eprt": "Approved",
+    "perusahaan": "24.Jan.2021",
+    "posisi": 30,
+    "angkatan": 30
+  },
+  {
+    "name": "Marketplace",
+    "status": "Disable",
+    "prodi": "24.Jan.2021",
+    "ipk": 30,
+    "nim": "Marketplace",
+    "eprt": "Approved",
+    "perusahaan": "24.Jan.2021",
+    "posisi": 30,
+    "angkatan": 30
+  },
+  {
+    "name": "Marketplace",
+    "status": "Disable",
+    "prodi": "24.Jan.2021",
+    "ipk": 30,
+    "nim": "Marketplace",
+    "eprt": "Approved",
+    "perusahaan": "24.Jan.2021",
+    "posisi": 30,
+    "angkatan": 30
+  },
+  {
+    "name": "Marketplace",
+    "status": "Error",
+    "prodi": "24.Jan.2021",
+    "ipk": 30,
+    "nim": "Marketplace",
+    "eprt": "Approved",
+    "perusahaan": "24.Jan.2021",
+    "posisi": 30,
+    "angkatan": 30
+  }
+]

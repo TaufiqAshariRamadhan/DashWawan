@@ -1,0 +1,38 @@
+[
+  {
+    "nama": "Marketplace",
+    "status": "Approved",
+    "date": "24.Jan.2021",
+    "prodi": 30,
+    "perusahaan": "Marketplace",
+    "posisi": "Approved",
+    "summary": "Approved"
+  },
+  {
+    "nama": "Marketplace",
+    "status": "Disable",
+    "date": "24.Jan.2021",
+    "prodi": 30,
+    "perusahaan": "Marketplace",
+    "posisi": "Approved",
+    "summary": "Approved"
+  },
+  {
+    "nama": "Marketplace",
+    "status": "Error",
+    "date": "24.Jan.2021",
+    "prodi": 30,
+    "perusahaan": "Marketplace",
+    "posisi": "Approved",
+    "summary": "Approved"
+  },
+  {
+    "nama": "Marketplace",
+    "status": "Error",
+    "date": "24.Jan.2021",
+    "prodi": 30,
+    "perusahaan": "Marketplace",
+    "posisi": "Approved",
+    "summary": "Approved"
+  }
+]
